@@ -2,14 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.example.com/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.example.com/posts/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://www.example.com/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-09T00:46:35+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -22,6 +16,15 @@
                 />
   </url><url>
     <loc>http://www.example.com/posts/</loc>
+    <lastmod>2021-10-09T00:46:35+05:30</lastmod>
+  </url><url>
+    <loc>http://www.example.com/posts/test-test/</loc>
+    <lastmod>2021-10-09T00:46:35+05:30</lastmod>
+  </url><url>
+    <loc>http://www.example.com/tags/emoji/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.example.com/posts/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.example.com/tags/</loc>
